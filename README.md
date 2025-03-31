@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlperenAltngl
-- 👀 I’m interested in C++, AI and Backend
+- 👀 I’m interested in C++ ,Nix ,AI and Backend
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me alperen__sungur__@hotmail.com
 

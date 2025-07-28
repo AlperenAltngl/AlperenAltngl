@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlperenAltngl
 - 👀 I’m interested in C++ ,AI and Frontend
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me alperen__sungur__@hotmail.com
+- 📫 How to reach me alingulalperen@gmail.com
 
 
 

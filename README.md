@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AlperenAltngl
-- I don't know what I'm into
 - 📫 How to reach me altingulalperen@gmail.com
 
 
